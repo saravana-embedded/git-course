@@ -1,1 +1,2 @@
 "# git-course"
+ push to remote using git push -u origin feauture-2 , then after u can use git push 
